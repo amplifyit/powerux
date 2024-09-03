@@ -35,7 +35,7 @@ Follow our [blog](https://blog.amplifyit.be/series/power-ux) and subscribe to ou
 
 
 ## Installation
-- Download the latest release from the [Releases](../releases) page.
+- Download the latest release from the [Releases](https://github.com/amplifyit/powerux/releases) page.
 - First Install the Base solution
 - Then Install the App Solution
 
